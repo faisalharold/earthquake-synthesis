@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "earthquake-synthesis"
+version = "0.1.0"
+description = "Framework for earthquake synthesis and GPS coupling analysis"
+authors = [{name = "Micah Lojera"}]
+dependencies = ["fastapi", "uvicorn", "pandas", "numpy"]
+
+[project.optional-dependencies]
+dev = ["pytest"]

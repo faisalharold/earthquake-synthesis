@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: earthquake-synthesis
+Version: 0.1.0
+Summary: Framework for earthquake synthesis and GPS coupling analysis
+Author: Micah Lojera
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: pandas
+Requires-Dist: numpy
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"

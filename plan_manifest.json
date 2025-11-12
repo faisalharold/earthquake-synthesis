@@ -1,0 +1,2266 @@
+[
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake/global_sequences.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake/global_sequences.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/global_sequences.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/global_sequences.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/sanity_checks/predictions.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/sanity_checks/predictions.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/western_pacific_classified.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/western_pacific_classified.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake/earthquake_sequences.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake/earthquake_sequences.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coupling/regional_linear.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coupling/regional_linear.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/production_model_v2.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/production_model_v2.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/sanity_checks/coupling_regional.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/sanity_checks/coupling_regional.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/sanity_checks/coupling_event.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/sanity_checks/coupling_event.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/validation_2020_2025_results.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/validation_2020_2025_results.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/reviewer_requirements/coupling/coupling_montecarlo.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/reviewer_requirements/coupling/coupling_montecarlo.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/western_pacific_full_cache.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/western_pacific_full_cache.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/reviewer_requirements/coulomb/stress_results.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/reviewer_requirements/coulomb/stress_results.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/complete_behavioral_features.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/complete_behavioral_features.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/all_tests_results.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/all_tests_results.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/reviewer_requirements/gps/gps_silent_detections.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/reviewer_requirements/gps/gps_silent_detections.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/coverage_summary.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/coverage_summary.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/western_pacific_mainshocks.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/western_pacific_mainshocks.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake/fetch_summary.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake/fetch_summary.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/MANIFEST.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/MANIFEST.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/western_pacific_full_features.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/western_pacific_full_features.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/phase_space_features.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/phase_space_features.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/fetch_summary.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/fetch_summary.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/reviewer_requirements/statistics/multiple_tests.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/reviewer_requirements/statistics/multiple_tests.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/coupling_analysis/coupling_regional_aggregated.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/coupling_analysis/coupling_regional_aggregated.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/coupling_analysis/coupling_regional_event_level.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/coupling_analysis/coupling_regional_event_level.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/features/features_2024_2025_v22x_input.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/features/features_2024_2025_v22x_input.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coupling/regional_regression_table.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coupling/regional_regression_table.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/gps_analysis/gps_detection_summary.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/gps_analysis/gps_detection_summary.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/sequences/global_sequences_2024_2025_detailed.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/sequences/global_sequences_2024_2025_detailed.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/exploration_results_global.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/exploration_results_global.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/pipeline_status.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/pipeline_status.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/results/production_pipeline/logs/pipeline_status.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/results/production_pipeline/logs/pipeline_status.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/manuscript_final/tables/table_s2_coupling_monte_carlo.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/manuscript_final/tables/table_s2_coupling_monte_carlo.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/mainshock_precursor_analysis.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/mainshock_precursor_analysis.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/features/pattern_features_v2p2a_patched_20251020_205048.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/features/pattern_features_v2p2a_patched_20251020_205048.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/mainshocks_2024_2025.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/mainshocks_2024_2025.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/pattern_features_v1.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/pattern_features_v1.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/pattern_features_v1.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/pattern_features_v1.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/exploration_results.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/exploration_results.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/pattern_vs_ml_comparison.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/pattern_vs_ml_comparison.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/test_results_20251022_145821/pattern_vs_ml_comparison.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/test_results_20251022_145821/pattern_vs_ml_comparison.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coulomb/flagged_large_stress.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coulomb/flagged_large_stress.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coupling/event_logistic_mixed.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coupling/event_logistic_mixed.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/prereg/preregistration_protocol.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/prereg/preregistration_protocol.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/final_package/analysis_report.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/final_package/analysis_report.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/rules/scoring_rules_class_overrides_v22d_20251020_214937.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/rules/scoring_rules_class_overrides_v22d_20251020_214937.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/final_verdict/FINAL_VERDICT.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/final_verdict/FINAL_VERDICT.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/gap6_declustering/filtered_catalog.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/gap6_declustering/filtered_catalog.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/radii_results.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/radii_results.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/feature_importance.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/feature_importance.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/events_classified.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/events_classified.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/true_sequences.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/true_sequences.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/sequence_simple_analysis.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/sequence_simple_analysis.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/scoring_comparison.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/scoring_comparison.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/ultimate_analysis.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/ultimate_analysis.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/complete_test_results.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/complete_test_results.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/class_performance_comparison.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/class_performance_comparison.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/sanity_checks/coulomb_stress.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/sanity_checks/coulomb_stress.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/sanity_checks/fp_catalog.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/sanity_checks/fp_catalog.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/sanity_checks/primary_tests.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/sanity_checks/primary_tests.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/sanity_checks/package_versions.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/sanity_checks/package_versions.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/sanity_checks/computed_metrics.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/sanity_checks/computed_metrics.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/sanity_checks/quality_issues.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/sanity_checks/quality_issues.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/test_results_20251022_145821/complete_test_results.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/test_results_20251022_145821/complete_test_results.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/test_results_20251022_145821/class_performance_comparison.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/test_results_20251022_145821/class_performance_comparison.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/novel_features_analysis.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/novel_features_analysis.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/feature_importance.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/feature_importance.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/false_positives.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/false_positives.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/gap9_prospective_validation/pre_registration_protocol.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/gap9_prospective_validation/pre_registration_protocol.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/silent_highcov_summary.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/silent_highcov_summary.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coulomb/stress_results_pa.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coulomb/stress_results_pa.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/statistics/primary_tests.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/statistics/primary_tests.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/statistics/primary_test_results.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/statistics/primary_test_results.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/declustering/removed_fp_list.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/declustering/removed_fp_list.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/calibration/isotonic_map.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/calibration/isotonic_map.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/manuscript_final/tables/table_s1_gps_coverage.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/manuscript_final/tables/table_s1_gps_coverage.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/manuscript_final/tables/table_s3_coulomb_sensitivity.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/manuscript_final/tables/table_s3_coulomb_sensitivity.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/manuscript_final/tables/table_s4_primary_tests.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/manuscript_final/tables/table_s4_primary_tests.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/final_verdict/regional_data_ORIGINAL.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/final_verdict/regional_data_ORIGINAL.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/manuscript_reproduction/REPRODUCTION_RESULTS.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/manuscript_reproduction/REPRODUCTION_RESULTS.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/manuscript_reproduction/regional_data_reproduced.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/manuscript_reproduction/regional_data_reproduced.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake/earthquake_model.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake/earthquake_model.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/gap_analysis_results.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/gap_analysis_results.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/frontier_tests_results.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/frontier_tests_results.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/two_mode_analysis_results.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/two_mode_analysis_results.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/precursor_analysis_by_class.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/precursor_analysis_by_class.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/candlestick_analysis.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/candlestick_analysis.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/sanity_checks/checksums.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/sanity_checks/checksums.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/coupling_troubleshooting_real/analysis_results.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/coupling_troubleshooting_real/analysis_results.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/final_validation/validation_results.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/final_validation/validation_results.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/gap_closing/table_s2_CORRECTED.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/gap_closing/table_s2_CORRECTED.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/gap_closing/gap_closing_summary.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/gap_closing/gap_closing_summary.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/comprehensive_gap_resolution/resolution_summary.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/comprehensive_gap_resolution/resolution_summary.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/usgs_analysis/04_current_vs_proper_comparison.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/usgs_analysis/04_current_vs_proper_comparison.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/metrics/rolling_metrics.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/metrics/rolling_metrics.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/indonesia_reclassification.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/indonesia_reclassification.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/spatial_heterogeneity.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/spatial_heterogeneity.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/cluster_analysis.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/cluster_analysis.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/false_positive_analysis.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/false_positive_analysis.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/baseline_comparison.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/baseline_comparison.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/baseline_comparison.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/baseline_comparison.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/yearly_performance.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/yearly_performance.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/earthquake_analysis_results (1)/gamma_criticality_results.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/earthquake_analysis_results (1)/gamma_criticality_results.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/coupling_monte_carlo.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/coupling_monte_carlo.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/earthquake_analysis_results/coupling_monte_carlo.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/earthquake_analysis_results/coupling_monte_carlo.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/gap6_declustering/performance_comparison.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/gap6_declustering/performance_comparison.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/gap10_cost_benefit/jurisdiction_comparison.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/gap10_cost_benefit/jurisdiction_comparison.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/critical_fixes/coupling/comparison_table.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/critical_fixes/coupling/comparison_table.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/critical_fixes/cost_benefit/cost_parameters.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/critical_fixes/cost_benefit/cost_parameters.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/critical_fixes/stress/corrected_stress_values.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/critical_fixes/stress/corrected_stress_values.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/critical_fixes/multiple_testing/correction_table.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/critical_fixes/multiple_testing/correction_table.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/gps_silent_detections_radius75_min3_w180.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/gps_silent_detections_radius75_min3_w180.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/gps_detection_comparison.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/gps_detection_comparison.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/silent_detect_highcov_min6_100km_180d.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/silent_detect_highcov_min6_100km_180d.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coulomb/stress_results_bar.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coulomb/stress_results_bar.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coupling/event_logit.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coupling/event_logit.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coupling/mc_summary.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coupling/mc_summary.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/statistics/power_analysis.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/statistics/power_analysis.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/statistics/primary_tests_declared.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/statistics/primary_tests_declared.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/completeness/mc_by_region_decade.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/completeness/mc_by_region_decade.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/completeness/performance_mc_plus.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/completeness/performance_mc_plus.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/declustering/filtered_confusion_matrix.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/declustering/filtered_confusion_matrix.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/declustering/filtered_vs_unfiltered_confusion.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/declustering/filtered_vs_unfiltered_confusion.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/declustering/removed_fp_metadata.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/declustering/removed_fp_metadata.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/manuscript_final/tables/table_s6_false_positive_catalog.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/manuscript_final/tables/table_s6_false_positive_catalog.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/troubleshooting/coupling_regional_CORRECTED.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/troubleshooting/coupling_regional_CORRECTED.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/troubleshooting/predictions_with_coupling_CORRECTED.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/troubleshooting/predictions_with_coupling_CORRECTED.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/troubleshooting/TROUBLESHOOTING_REPORT.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/troubleshooting/TROUBLESHOOTING_REPORT.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/deploy_model.py",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/deploy_model.py"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Coral Bleaching.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Coral Bleaching.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Mangrove.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Mangrove.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Earthquake 1.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Earthquake 1.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Earthquake 3.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Earthquake 3.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/earthquake_system_phase1.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/earthquake_system_phase1.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Earthquake_Criticality_Framework_Testing.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Earthquake_Criticality_Framework_Testing.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks/Earthquake latest.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks/Earthquake latest.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/threshold_sensitivity.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/threshold_sensitivity.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coulomb/stress_debug_log.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coulomb/stress_debug_log.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/cost/threshold_sensitivity_reputation.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/cost/threshold_sensitivity_reputation.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/cost/threshold_reputation_sweep.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/cost/threshold_reputation_sweep.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/manuscript_final/tables/table_s5_threshold_tradeoffs.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/manuscript_final/tables/table_s5_threshold_tradeoffs.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/v2_randomsearch_ck_A_subduction_like_20251020_195100.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/v2_randomsearch_ck_A_subduction_like_20251020_195100.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/v2_randomsearch_ck_C_other_20251020_195103.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/v2_randomsearch_ck_C_other_20251020_195103.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/v2_randomsearch_all_20251020_195103.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/v2_randomsearch_all_20251020_195103.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Untitled0.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Untitled0.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Untitled1.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Untitled1.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Untitled2.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Untitled2.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Untitled3.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Untitled3.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Untitled4.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Untitled4.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Untitled6.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Untitled6.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Deep_Precursor_Historical_Validation.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Deep_Precursor_Historical_Validation.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/CLASS_Stratified_Deep_Precursor_Analysis.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/CLASS_Stratified_Deep_Precursor_Analysis.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Japan_Deep_Precursor_Analysis.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Japan_Deep_Precursor_Analysis.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Western_Pacific_FULL_Analysis (1).ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Western_Pacific_FULL_Analysis (1).ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Radii_Optimization_Pipeline.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Radii_Optimization_Pipeline.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Radii_Optimization_Pipeline (1).ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Radii_Optimization_Pipeline (1).ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Radii_Optimization_Pipeline (2).ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Radii_Optimization_Pipeline (2).ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Radii_Optimization_STANDALONE.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Radii_Optimization_STANDALONE.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Western_Pacific_System_Analysis.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Western_Pacific_System_Analysis.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Real_Time_Earthquake_Monitoring_API.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Real_Time_Earthquake_Monitoring_API.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Deep_Shallow_Coupling_Analysis.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Deep_Shallow_Coupling_Analysis.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Radii_Optimization_SIMPLE.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Radii_Optimization_SIMPLE.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Western_Pacific_FULL_Analysis.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Western_Pacific_FULL_Analysis.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Radii_Optimization_SIMPLE (1).ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Radii_Optimization_SIMPLE (1).ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Phase_Space_Analysis.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Phase_Space_Analysis.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/Ultimate_Behavioral_Model.ipynb",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/Ultimate_Behavioral_Model.ipynb"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake/quick_rebuild.py",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake/quick_rebuild.py"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/final_validation/SANITY_CHECK_CODE.py",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/final_validation/SANITY_CHECK_CODE.py"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/usgs_analysis/download_usgs_catalog.py",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/usgs_analysis/download_usgs_catalog.py"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/v2_randomsearch_ck_A_subduction_like_20251020_195056.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/v2_randomsearch_ck_A_subduction_like_20251020_195056.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/v2_randomsearch_ck_A_subduction_like_20251020_195057.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/v2_randomsearch_ck_A_subduction_like_20251020_195057.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/v2_randomsearch_ck_A_subduction_like_20251020_195058.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/v2_randomsearch_ck_A_subduction_like_20251020_195058.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/v2_randomsearch_ck_A_subduction_like_20251020_195059.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/v2_randomsearch_ck_A_subduction_like_20251020_195059.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/v2_randomsearch_ck_C_other_20251020_195101.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/v2_randomsearch_ck_C_other_20251020_195101.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/v2_randomsearch_ck_C_other_20251020_195102.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/v2_randomsearch_ck_C_other_20251020_195102.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/v2_randomsearch_best_20251020_195103.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/v2_randomsearch_best_20251020_195103.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/scoring_rules_class_overrides_v2_20251020_195103.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/scoring_rules_class_overrides_v2_20251020_195103.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions_scored_v2p1_20251020_200649.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions_scored_v2p1_20251020_200649.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_actionable_v2p1_20251020_200649.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_actionable_v2p1_20251020_200649.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_watchlist_v2p1_20251020_200649.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_watchlist_v2p1_20251020_200649.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/classaware_metrics_v2p1_20251020_200649.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/classaware_metrics_v2p1_20251020_200649.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions_v2p2_movements_20251020_201652.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions_v2p2_movements_20251020_201652.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_actionable_v2p2_movements_20251020_201652.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_actionable_v2p2_movements_20251020_201652.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_watchlist_v2p2_movements_20251020_201652.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_watchlist_v2p2_movements_20251020_201652.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/class_metrics_v2p2_movements_20251020_201652.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/class_metrics_v2p2_movements_20251020_201652.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/scoring_rules_v2p2_20251020_201652.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/scoring_rules_v2p2_20251020_201652.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/scoring_rules_v2p2_patch_20251020_202355.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/scoring_rules_v2p2_patch_20251020_202355.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions_scored_v2p2_patch_20251020_202355.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions_scored_v2p2_patch_20251020_202355.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/class_metrics_v2p2_patch_20251020_202355.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/class_metrics_v2p2_patch_20251020_202355.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_actionable_v2p2_patch_20251020_202355.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_actionable_v2p2_patch_20251020_202355.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_watchlist_v2p2_patch_20251020_202355.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_watchlist_v2p2_patch_20251020_202355.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions_scored_v2p2a_20251020_204107.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions_scored_v2p2a_20251020_204107.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_actionable_v2p2a_20251020_204107.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_actionable_v2p2a_20251020_204107.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_watchlist_v2p2a_20251020_204107.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_watchlist_v2p2a_20251020_204107.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/classaware_metrics_v2p2a_20251020_204107.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/classaware_metrics_v2p2a_20251020_204107.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions_scored_v2p2a_20251020_204719.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions_scored_v2p2a_20251020_204719.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_actionable_v2p2a_20251020_204719.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_actionable_v2p2a_20251020_204719.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_watchlist_v2p2a_20251020_204719.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_watchlist_v2p2a_20251020_204719.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/classaware_metrics_v2p2a_20251020_204719.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/classaware_metrics_v2p2a_20251020_204719.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions_scored_v2p2a_20251020_204912.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions_scored_v2p2a_20251020_204912.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_actionable_v2p2a_20251020_204912.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_actionable_v2p2a_20251020_204912.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_watchlist_v2p2a_20251020_204912.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_watchlist_v2p2a_20251020_204912.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/classaware_metrics_v2p2a_20251020_204912.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/classaware_metrics_v2p2a_20251020_204912.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions_scored_v2p2a_20251020_205048.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions_scored_v2p2a_20251020_205048.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_actionable_v2p2a_20251020_205048.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_actionable_v2p2a_20251020_205048.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_watchlist_v2p2a_20251020_205048.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_watchlist_v2p2a_20251020_205048.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/classaware_metrics_v2p2a_20251020_205048.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/classaware_metrics_v2p2a_20251020_205048.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/features/pattern_features_v2p2a_patched_20251020_204719.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/features/pattern_features_v2p2a_patched_20251020_204719.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/features/features_2022_2023_v22x_input.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/features/features_2022_2023_v22x_input.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/rules/scoring_rules_class_overrides_v2p2_20251020_203648.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/rules/scoring_rules_class_overrides_v2p2_20251020_203648.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/rules/scoring_rules_class_overrides_v2p2a_20251020_204107.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/rules/scoring_rules_class_overrides_v2p2a_20251020_204107.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/rules/scoring_rules_class_overrides_v2p2a_20251020_204719.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/rules/scoring_rules_class_overrides_v2p2a_20251020_204719.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/rules/scoring_rules_class_overrides_v2p2a_20251020_204912.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/rules/scoring_rules_class_overrides_v2p2a_20251020_204912.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/rules/scoring_rules_class_overrides_v2p2a_20251020_205048.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/rules/scoring_rules_class_overrides_v2p2a_20251020_205048.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/rules/scoring_rules_class_overrides_v2p2a_FIXED_20251020_205911.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/rules/scoring_rules_class_overrides_v2p2a_FIXED_20251020_205911.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/rules/scoring_rules_class_overrides_v22c_20251020_210820.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/rules/scoring_rules_class_overrides_v22c_20251020_210820.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/rules/scoring_rules_class_overrides_v22d_CAL_20251020_221213.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/rules/scoring_rules_class_overrides_v22d_CAL_20251020_221213.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/error_analysis/flips_by_gate_v2p2_20251020_203648.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/error_analysis/flips_by_gate_v2p2_20251020_203648.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/metrics/ablation_summary_v2p2_20251020_203648.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/metrics/ablation_summary_v2p2_20251020_203648.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/metrics/region_strat_C_v2p2_20251020_203648.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/metrics/region_strat_C_v2p2_20251020_203648.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/metrics/classaware_metrics_v22b_20251020_210506.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/metrics/classaware_metrics_v22b_20251020_210506.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/metrics/classaware_metrics_v22c_20251020_210820.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/metrics/classaware_metrics_v22c_20251020_210820.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/metrics/classaware_metrics_v22d_20251020_214937.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/metrics/classaware_metrics_v22d_20251020_214937.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/metrics/classaware_metrics_v22d_tighten_20251020_221213.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/metrics/classaware_metrics_v22d_tighten_20251020_221213.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/metrics/classaware_metrics_v22d_deploy_20251020_222456.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/metrics/classaware_metrics_v22d_deploy_20251020_222456.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions/decisions_scored_v22b_20251020_210506.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions/decisions_scored_v22b_20251020_210506.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions/decisions_scored_v22c_20251020_210820.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions/decisions_scored_v22c_20251020_210820.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions/decisions_scored_v22c_val2024_2025_20251020_213316.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions/decisions_scored_v22c_val2024_2025_20251020_213316.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions/decisions_v22c_val2024_2025_labeled_20251020_213529.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions/decisions_v22c_val2024_2025_labeled_20251020_213529.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions/decisions_v22c_val2024_2025_REPAIRED_20251020_214105.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions/decisions_v22c_val2024_2025_REPAIRED_20251020_214105.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions/decisions_scored_v22d_20251020_214937.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions/decisions_scored_v22d_20251020_214937.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions/decisions_v22d_backval_2022_2023_20251020_220031.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions/decisions_v22d_backval_2022_2023_20251020_220031.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions/decisions_scored_v22d_tighten_20251020_221213.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions/decisions_scored_v22d_tighten_20251020_221213.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions/decisions_scored_v22d_prod_20251020_221859.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions/decisions_scored_v22d_prod_20251020_221859.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions/decisions_scored_v22d_deploy_20251020_222456.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions/decisions_scored_v22d_deploy_20251020_222456.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts/alerts_actionable_v22b_20251020_210506.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts/alerts_actionable_v22b_20251020_210506.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts/alerts_watchlist_v22b_20251020_210506.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts/alerts_watchlist_v22b_20251020_210506.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts/alerts_actionable_v22c_20251020_210820.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts/alerts_actionable_v22c_20251020_210820.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts/alerts_watchlist_v22c_20251020_210820.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts/alerts_watchlist_v22c_20251020_210820.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts/alerts_actionable_v22c_val2024_2025_20251020_213316.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts/alerts_actionable_v22c_val2024_2025_20251020_213316.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts/alerts_watchlist_v22c_val2024_2025_20251020_213316.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts/alerts_watchlist_v22c_val2024_2025_20251020_213316.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts/alerts_actionable_v22d_20251020_214937.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts/alerts_actionable_v22d_20251020_214937.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts/alerts_watchlist_v22d_20251020_214937.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts/alerts_watchlist_v22d_20251020_214937.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts/alerts_actionable_v22d_tighten_20251020_221213.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts/alerts_actionable_v22d_tighten_20251020_221213.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts/alerts_watchlist_v22d_tighten_20251020_221213.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts/alerts_watchlist_v22d_tighten_20251020_221213.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts/alerts_actionable_v22d_prod_20251020_221859.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts/alerts_actionable_v22d_prod_20251020_221859.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts/alerts_watchlist_v22d_prod_20251020_221859.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts/alerts_watchlist_v22d_prod_20251020_221859.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts/alerts_actionable_v22d_deploy_20251020_222456.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts/alerts_actionable_v22d_deploy_20251020_222456.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts/alerts_watchlist_v22d_deploy_20251020_222456.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts/alerts_watchlist_v22d_deploy_20251020_222456.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/best_model.pkl",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/best_model.pkl"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake/new_session_template.py",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake/new_session_template.py"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake/framework_analysis_results (1).csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake/framework_analysis_results (1).csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake/framework_analysis_results (2).csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake/framework_analysis_results (2).csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake/framework_analysis_results (3).csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake/framework_analysis_results (3).csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/error_analysis_topFP_20251020_185222.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/error_analysis_topFP_20251020_185222.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/error_analysis_topFN_20251020_185222.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/error_analysis_topFN_20251020_185222.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_actionable_20251020_195547.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_actionable_20251020_195547.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/alerts_watchlist_20251020_195547.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/alerts_watchlist_20251020_195547.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/decisions_scored_20251020_195547.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/decisions_scored_20251020_195547.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/classaware_metrics_20251020_195547.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/classaware_metrics_20251020_195547.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/regional_optimization_results.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/regional_optimization_results.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/comprehensive_gap_analysis.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/comprehensive_gap_analysis.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/ml_results.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/ml_results.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/metadata/priors_and_classes_v1_20251020_185005.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/metadata/priors_and_classes_v1_20251020_185005.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/metadata/session_manifest_20251020_185005.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/metadata/session_manifest_20251020_185005.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/patterns/pattern_detectors_v1_20251020_185005.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/patterns/pattern_detectors_v1_20251020_185005.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/scoring/scoring_rules_global_v1_20251020_185005.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/scoring/scoring_rules_global_v1_20251020_185005.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/scoring/scoring_rules_class_overrides_v1_20251020_185005.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/scoring/scoring_rules_class_overrides_v1_20251020_185005.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/reports/confusion_matrices_v1_20251020_185005.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/reports/confusion_matrices_v1_20251020_185005.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/reports/rule_hitrates_v1_20251020_185005.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/reports/rule_hitrates_v1_20251020_185005.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/reports/per_class_diagnostics_v1_20251020_185005.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/reports/per_class_diagnostics_v1_20251020_185005.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/features/features_2024_2025_labeled_20251020_213529.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/features/features_2024_2025_labeled_20251020_213529.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/features/features_2024_2025_labeled_REPAIRED_20251020_214105.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/features/features_2024_2025_labeled_REPAIRED_20251020_214105.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/rules/rules_pointers_20251020_203648.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/rules/rules_pointers_20251020_203648.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/metrics/timeline_clusters_20251020_221213.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/metrics/timeline_clusters_20251020_221213.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000m0xl_20240101_071009.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000m0xl_20240101_071009.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000m0xm_20240101_071841.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000m0xm_20240101_071841.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000m2jp_20240108_204842.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000m2jp_20240108_204842.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000m31m_20240111_092026.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000m31m_20240111_092026.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000m4js_20240118_221221.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000m4js_20240118_221221.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000m50e_20240120_154840.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000m50e_20240120_154840.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000m52p_20240120_213105.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000m52p_20240120_213105.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000m53t_20240120_220939.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000m53t_20240120_220939.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000lsze_20240122_180904.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000lsze_20240122_180904.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000lt73_20240123_143345.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000lt73_20240123_143345.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000luai_20240127_055248.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000luai_20240127_055248.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000lui3_20240128_093856.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000lui3_20240128_093856.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000lxyv_20240209_105748.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000lxyv_20240209_105748.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000lym6_20240212_111934.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000lym6_20240212_111934.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000lz5f_20240214_114022.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000lz5f_20240214_114022.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000m0zq_20240223_015113.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000m0zq_20240223_015113.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000mghc_20240303_161653.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000mghc_20240303_161653.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000mgyj_20240305_195252.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000mgyj_20240305_195252.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000m439_20240308_091145.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000m439_20240308_091145.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000milg_20240313_151322.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000milg_20240313_151322.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000miy6_20240314_211024.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000miy6_20240314_211024.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000mkfz_20240322_085258.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000mkfz_20240322_085258.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000mksx_20240323_202204.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000mksx_20240323_202204.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000m86i_20240327_012817.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000m86i_20240327_012817.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000m9bq_20240402_095408.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000m9bq_20240402_095408.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000m9g4_20240402_235812.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000m9g4_20240402_235812.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000m9gc_20240403_001125.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000m9gc_20240403_001125.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000m9sq_20240404_031630.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000m9sq_20240404_031630.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000ma2w_20240405_110316.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000ma2w_20240405_110316.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000maxr_20240409_094759.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000maxr_20240409_094759.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000mc2t_20240414_205628.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000mc2t_20240414_205628.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000mcpi_20240417_141446.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000mcpi_20240417_141446.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000mt0r_20240422_182652.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000mt0r_20240422_182652.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000mt0s_20240422_183248.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000mt0s_20240422_183248.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000mu8k_20240427_083534.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000mu8k_20240427_083534.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000muc0_20240427_162950.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000muc0_20240427_162950.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000mwjd_20240505_183311.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000mwjd_20240505_183311.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000mx5c_20240508_081715.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000mx5c_20240508_081715.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000my20_20240512_113912.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000my20_20240512_113912.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000mzme_20240519_093524.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000mzme_20240519_093524.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000n102_20240525_222315.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000n102_20240525_222315.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000n158_20240526_204712.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000n158_20240526_204712.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000mp99_20240531_154609.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000mp99_20240531_154609.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000mp9e_20240531_155440.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000mp9e_20240531_155440.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000mrbr_20240609_095549.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000mrbr_20240609_095549.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000msqt_20240616_002756.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000msqt_20240616_002756.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000mstj_20240616_144733.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000mstj_20240616_144733.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000mu1p_20240623_035758.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000mu1p_20240623_035758.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000mu8s_20240624_080337.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000mu8s_20240624_080337.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000n8tq_20240628_053636.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000n8tq_20240628_053636.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000n948_20240629_070532.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000n948_20240629_070532.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000mxmu_20240707_200112.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000mxmu_20240707_200112.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000my76_20240710_045541.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000my76_20240710_045541.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000myfa_20240711_021318.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000myfa_20240711_021318.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000mykj_20240711_150847.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000mykj_20240711_150847.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000n05d_20240719_015048.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000n05d_20240719_015048.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000n068_20240719_031347.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000n068_20240719_031347.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000n0ka_20240721_025348.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000n0ka_20240721_025348.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000n0s8_20240722_050427.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000n0s8_20240722_050427.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000ngng_20240729_130711.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000ngng_20240729_130711.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000nhqc_20240802_222302.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000nhqc_20240802_222302.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000nht0_20240803_042026.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000nht0_20240803_042026.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000nith_20240808_074255.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000nith_20240808_074255.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000nj9s_20240810_032832.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000nj9s_20240810_032832.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000n7b8_20240815_233553.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000n7b8_20240815_233553.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000n7n8_20240817_191026.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000n7n8_20240817_191026.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000n9dt_20240825_232907.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000n9dt_20240825_232907.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000n9dz_20240825_233051.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000n9dz_20240825_233051.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000nncs_20240828_215754.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000nncs_20240828_215754.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000nnlx_20240830_042422.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000nnlx_20240830_042422.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000np3z_20240901_201334.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000np3z_20240901_201334.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000nps8_20240905_010315.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000nps8_20240905_010315.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nd4f_20240911_164605.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nd4f_20240911_164605.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000ne51_20240915_222248.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000ne51_20240915_222248.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000ne84_20240916_113634.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000ne84_20240916_113634.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000ntjh_20240921_212428.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000ntjh_20240921_212428.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000ntxc_20240923_195102.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000ntxc_20240923_195102.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000ngmr_20240926_191928.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000ngmr_20240926_191928.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nhex_20241001_092805.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nhex_20241001_092805.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nhjw_20241001_200534.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nhjw_20241001_200534.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000nyau_20241012_174344.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000nyau_20241012_174344.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000nyzk_20241016_074632.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000nyzk_20241016_074632.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nmlt_20241023_143804.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nmlt_20241023_143804.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nnz9_20241030_121851.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nnz9_20241030_121851.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000np33_20241030_201520.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000np33_20241030_201520.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nql2_20241108_113800.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nql2_20241108_113800.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nr0v_20241110_164950.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nr0v_20241110_164950.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nrwz_20241115_052830.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nrwz_20241115_052830.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nsa3_20241117_121629.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nsa3_20241117_121629.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nu90_20241126_134703.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nu90_20241126_134703.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_nc75095651_20241205_184421.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_nc75095651_20241205_184421.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nx17_20241208_102500.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nx17_20241208_102500.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nx3z_20241208_195708.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nx3z_20241208_195708.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nx5r_20241209_001530.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nx5r_20241209_001530.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nx5z_20241209_003852.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nx5z_20241209_003852.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nyqr_20241213_233818.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nyqr_20241213_233818.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000nzf3_20241217_014725.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000nzf3_20241217_014725.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000p0lv_20241221_153053.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000p0lv_20241221_153053.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000pfw7_20241227_124737.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000pfw7_20241227_124737.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000pgv4_20250101_134824.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000pgv4_20250101_134824.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000phap_20250102_204335.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000phap_20250102_204335.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000pi09_20250105_171845.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000pi09_20250105_171845.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000pi9w_20250107_010516.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000pi9w_20250107_010516.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000pjig_20250112_083249.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000pjig_20250112_083249.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000pjny_20250113_121932.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000pjny_20250113_121932.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000pl8h_20250120_161726.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000pl8h_20250120_161726.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pcdl_20250208_232314.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pcdl_20250208_232314.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pfmk_20250223_181618.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pfmk_20250223_181618.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000pvgx_20250225_225545.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000pvgx_20250225_225545.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000px89_20250306_162139.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000px89_20250306_162139.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000pxvx_20250310_023314.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000pxvx_20250310_023314.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000py97_20250312_054211.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000py97_20250312_054211.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pllt_20250321_145051.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pllt_20250321_145051.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pllu_20250321_145341.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pllu_20250321_145341.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pmem_20250325_014311.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pmem_20250325_014311.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pn7g_20250328_003421.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pn7g_20250328_003421.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pn9s_20250328_062052.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pn9s_20250328_062052.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pn9z_20250328_063204.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pn9z_20250328_063204.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pnf2_20250328_171727.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pnf2_20250328_171727.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pntq_20250330_121850.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pntq_20250330_121850.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pnvp_20250330_150454.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pnvp_20250330_150454.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000ppd9_20250402_002922.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000ppd9_20250402_002922.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000ppfy_20250402_140357.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000ppfy_20250402_140357.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000q3nw_20250403_140929.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000q3nw_20250403_140929.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000q41n_20250404_200438.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000q41n_20250404_200438.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000q5ka_20250412_034708.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000q5ka_20250412_034708.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000q5tp_20250413_200322.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000q5tp_20250413_200322.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000q6cs_20250416_014259.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000q6cs_20250416_014259.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pu62_20250422_101711.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pu62_20250422_101711.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pufs_20250423_094911.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pufs_20250423_094911.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pv06_20250425_114452.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pv06_20250425_114452.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pvt7_20250429_131632.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pvt7_20250429_131632.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pvtr_20250429_145337.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pvtr_20250429_145337.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pwkn_20250502_125826.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pwkn_20250502_125826.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pwpu_20250502_175907.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pwpu_20250502_175907.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000px6v_20250505_035539.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000px6v_20250505_035539.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pz2p_20250513_225115.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pz2p_20250513_225115.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000pz41_20250514_041540.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000pz41_20250514_041540.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000q0bm_20250520_150559.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000q0bm_20250520_150559.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000q0pq_20250522_031935.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000q0pq_20250522_031935.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000q14k_20250523_163325.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000q14k_20250523_163325.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000q1e7_20250525_104959.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000q1e7_20250525_104959.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qgts_20250530_053638.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qgts_20250530_053638.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qh1r_20250531_083717.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qh1r_20250531_083717.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qh35_20250531_142849.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qh35_20250531_142849.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qh59_20250531_212111.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qh59_20250531_212111.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qh5j_20250531_222622.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qh5j_20250531_222622.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qigd_20250606_171506.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qigd_20250606_171506.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qisj_20250607_232045.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qisj_20250607_232045.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qixr_20250608_130805.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qixr_20250608_130805.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qk4v_20250613_183514.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qk4v_20250613_183514.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qlnz_20250621_212318.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qlnz_20250621_212318.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000q8bd_20250624_015806.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000q8bd_20250624_015806.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000q8tw_20250625_221613.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000q8tw_20250625_221613.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000q97d_20250627_230710.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000q97d_20250627_230710.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000q9b5_20250628_083220.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000q9b5_20250628_083220.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qb4s_20250707_125344.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qb4s_20250707_125344.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qcik_20250714_054958.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qcik_20250714_054958.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qclp_20250714_171649.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qclp_20250714_171649.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qd1y_20250716_203741.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qd1y_20250716_203741.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qdye_20250720_062817.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qdye_20250720_062817.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qdyl_20250720_064904.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qdyl_20250720_064904.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qdyw_20250720_070742.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qdyw_20250720_070742.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qdz2_20250720_072302.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qdz2_20250720_072302.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qe51_20250720_222800.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qe51_20250720_222800.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qu2r_20250722_015928.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qu2r_20250722_015928.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qugg_20250723_205043.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qugg_20250723_205043.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000quxn_20250724_223727.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000quxn_20250724_223727.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000quy1_20250724_233756.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000quy1_20250724_233756.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qv1b_20250725_112202.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qv1b_20250725_112202.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qvbw_20250726_161504.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qvbw_20250726_161504.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qvpp_20250728_184150.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qvpp_20250728_184150.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qvsf_20250728_221035.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qvsf_20250728_221035.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qw1a_20250729_175340.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qw1a_20250729_175340.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qw60_20250729_232452.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qw60_20250729_232452.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000r0y5_20250729_233003.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000r0y5_20250729_233003.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000r0xw_20250729_233044.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000r0xw_20250729_233044.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000r0qc_20250729_233601.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000r0qc_20250729_233601.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qwhj_20250729_233734.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qwhj_20250729_233734.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qw6q_20250730_000958.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qw6q_20250730_000958.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qw6s_20250730_001606.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qw6s_20250730_001606.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qwfe_20250730_095613.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qwfe_20250730_095613.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qwk1_20250730_160746.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qwk1_20250730_160746.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qwuh_20250731_052714.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qwuh_20250731_052714.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qxfn_20250801_182045.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qxfn_20250801_182045.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qxn6_20250802_141403.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qxn6_20250802_141403.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qxsv_20250803_045710.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qxsv_20250803_045710.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qxt4_20250803_053755.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qxt4_20250803_053755.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qxzw_20250804_042054.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qxzw_20250804_042054.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qzh9_20250809_140407.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qzh9_20250809_140407.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000qznb_20250810_165347.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000qznb_20250810_165347.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000r01m_20250812_082423.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000r01m_20250812_082423.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000r0sa_20250814_162234.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000r0sa_20250814_162234.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000r2xq_20250822_021618.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000r2xq_20250822_021618.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000r3at_20250823_091422.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000r3at_20250823_091422.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000r3l7_20250825_064834.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000r3l7_20250825_064834.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qr8h_20250827_034950.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qr8h_20250827_034950.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qsvj_20250831_191734.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qsvj_20250831_191734.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000quvp_20250908_214748.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000quvp_20250908_214748.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qvw5_20250913_023756.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qvw5_20250913_023756.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qwch_20250915_163435.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qwch_20250915_163435.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qwir_20250916_165950.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qwir_20250916_165950.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qx1z_20250918_181949.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qx1z_20250918_181949.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us7000qx2g_20250918_185814.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us7000qx2g_20250918_185814.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rge8_20250919_145540.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rge8_20250919_145540.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rcnw_20250924_222155.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rcnw_20250924_222155.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rcqw_20250925_035139.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rcqw_20250925_035139.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rdrz_20250930_135943.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rdrz_20250930_135943.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rdta_20250930_164944.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rdta_20250930_164944.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rei1_20251003_160744.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rei1_20251003_160744.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rfb2_20251007_110517.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rfb2_20251007_110517.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rft9_20251009_132844.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rft9_20251009_132844.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rfwz_20251010_014359.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rfwz_20251010_014359.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rfye_20251010_020810.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rfye_20251010_020810.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rg2r_20251010_111207.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rg2r_20251010_111207.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rgf4_20251010_202920.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rgf4_20251010_202920.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rgkr_20251011_143258.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rgkr_20251011_143258.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rhf2_20251016_014232.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rhf2_20251016_014232.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rhg5_20251016_054855.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rhg5_20251016_054855.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake_framework/raw/aftershocks_us6000rhns_20251016_230316.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake_framework/raw/aftershocks_us6000rhns_20251016_230316.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/gps_analysis.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/gps_analysis.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/performance_curve.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/performance_curve.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/earthquake_analysis_results/performance_curve.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/earthquake_analysis_results/performance_curve.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/earthquake_analysis_results/gps_analysis.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/earthquake_analysis_results/gps_analysis.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/gap8_stress_modeling/case_study_1_results.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/gap8_stress_modeling/case_study_1_results.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/gap8_stress_modeling/case_study_2_results.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/gap8_stress_modeling/case_study_2_results.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/gap10_cost_benefit/japan_analysis.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/gap10_cost_benefit/japan_analysis.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/gap10_cost_benefit/chile_analysis.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/gap10_cost_benefit/chile_analysis.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/gap10_cost_benefit/indonesia_analysis.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/gap10_cost_benefit/indonesia_analysis.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/gap10_cost_benefit/california_usa_analysis.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/gap10_cost_benefit/california_usa_analysis.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/gps_silent_detections_radius75_min2_w180.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/gps_silent_detections_radius75_min2_w180.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/gps_silent_detections_radius75_min3_w120.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/gps_silent_detections_radius75_min3_w120.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/gps_silent_detections_radius100_min3_w180.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/gps_silent_detections_radius100_min3_w180.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/gps_silent_detections_radius100_min2_w180.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/gps_silent_detections_radius100_min2_w180.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/gps_silent_detections_radius100_min3_w120.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/gps_silent_detections_radius100_min3_w120.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/gps_silent_detections_radius100_min2_w180_wavelet.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/gps_silent_detections_radius100_min2_w180_wavelet.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coulomb/stress_sensitivity_1.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coulomb/stress_sensitivity_1.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coulomb/stress_sensitivity_2.csv",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coulomb/stress_sensitivity_2.csv"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coulomb/debug_event_1.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coulomb/debug_event_1.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coulomb/debug_event_2.json",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coulomb/debug_event_2.json"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/calibration/calibration_plot_final.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/calibration/calibration_plot_final.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/manuscript_reproduction/MANUSCRIPT_REPRODUCTION.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/manuscript_reproduction/MANUSCRIPT_REPRODUCTION.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Western_Pacific_Results (1)/western_pacific_full_results.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Western_Pacific_Results (1)/western_pacific_full_results.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/Colab Notebooks (1)/radii_optimization.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/Colab Notebooks (1)/radii_optimization.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/feature_importance.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/feature_importance.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/exploration_summary_global.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/exploration_summary_global.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/baseline_vs_informed_comparison.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/baseline_vs_informed_comparison.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/FINAL_COUPLING_PACKAGE/coupling_analysis_comprehensive.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/FINAL_COUPLING_PACKAGE/coupling_analysis_comprehensive.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/indonesia_reclassification.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/indonesia_reclassification.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/hierarchical_clustering.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/hierarchical_clustering.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/comprehensive_tests_20251022_151010/classification_comparison.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/comprehensive_tests_20251022_151010/classification_comparison.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/reproducibility_package/environment.yml",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/reproducibility_package/environment.yml"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/reproducibility_package/docker-compose.yml",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/reproducibility_package/docker-compose.yml"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/critical_fixes/coupling/coupling_reconciliation.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/critical_fixes/coupling/coupling_reconciliation.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/critical_fixes/cost_benefit/japan_cost_curve.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/critical_fixes/cost_benefit/japan_cost_curve.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/critical_fixes/cost_benefit/chile_cost_curve.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/critical_fixes/cost_benefit/chile_cost_curve.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/critical_fixes/cost_benefit/indonesia_cost_curve.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/critical_fixes/cost_benefit/indonesia_cost_curve.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/critical_fixes/cost_benefit/california_usa_cost_curve.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/critical_fixes/cost_benefit/california_usa_cost_curve.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/critical_fixes/stress/stress_distribution.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/critical_fixes/stress/stress_distribution.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/results/critical_fixes/calibration/calibration_analysis.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/results/critical_fixes/calibration/calibration_analysis.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/earthquake data/figures/manuscript/supplementary_calibration.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/earthquake data/figures/manuscript/supplementary_calibration.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coulomb/stress_map_event_1.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coulomb/stress_map_event_1.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coulomb/stress_map_event_2.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coulomb/stress_map_event_2.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coupling/coupling_montecarlo_plots.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coupling/coupling_montecarlo_plots.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coupling/regional_regression_plot.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coupling/regional_regression_plot.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/coupling/event_logit_effects.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/coupling/event_logit_effects.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/completeness/fig_performance_vs_Mc.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/completeness/fig_performance_vs_Mc.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/calibration/calibration_plot.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/calibration/calibration_plot.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/plots/event_1.0_comparison.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/plots/event_1.0_comparison.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/plots/event_2.0_comparison.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/plots/event_2.0_comparison.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/plots/event_3.0_comparison.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/plots/event_3.0_comparison.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/plots/event_4.0_comparison.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/plots/event_4.0_comparison.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/plots/event_5.0_comparison.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/plots/event_5.0_comparison.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/plots/event_6.0_comparison.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/plots/event_6.0_comparison.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/plots/event_0_gps_timeseries.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/plots/event_0_gps_timeseries.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/plots/event_1_gps_timeseries.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/plots/event_1_gps_timeseries.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/plots/event_2_gps_timeseries.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/plots/event_2_gps_timeseries.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/plots/event_6_gps_timeseries.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/plots/event_6_gps_timeseries.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/plots/event_7_gps_timeseries.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/plots/event_7_gps_timeseries.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/gps/plots/event_9_gps_timeseries.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/gps/plots/event_9_gps_timeseries.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/manuscript_final/figures/figure1_gps_coverage.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/manuscript_final/figures/figure1_gps_coverage.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/manuscript_final/figures/figure2_coupling_scales.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/manuscript_final/figures/figure2_coupling_scales.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/manuscript_final/figures/figure3_coulomb_stress.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/manuscript_final/figures/figure3_coulomb_stress.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/coupling_analysis/regional_aggregated_regression.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/coupling_analysis/regional_aggregated_regression.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/coupling_analysis/event_level_regression.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/coupling_analysis/event_level_regression.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/gps_analysis/gps_coverage_and_detection.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/gps_analysis/gps_coverage_and_detection.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/final_package/COUPLING_DIAGNOSIS.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/final_package/COUPLING_DIAGNOSIS.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/troubleshooting/COUPLING_CORRECTED_ANALYSIS.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/troubleshooting/COUPLING_CORRECTED_ANALYSIS.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/debug_outputs/final_verdict/ORIGINAL_ANALYSIS.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/debug_outputs/final_verdict/ORIGINAL_ANALYSIS.png"
+  },
+  {
+    "src": "/content/drive/MyDrive/Earthquake Synthesis/pipeline_outputs/cost/optimal_threshold_by_penalty.png",
+    "dst": "/content/earthquake_synthesis_clean/data/raw/pipeline_outputs/cost/optimal_threshold_by_penalty.png"
+  }
+]
